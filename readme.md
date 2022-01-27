@@ -29,14 +29,16 @@ npm install jest --save-dev
 ```
 4. In the project folder, create a folder `__tests__`for the tests
 5. Write an API description
-6. Create your tests and run them BEFORE implementing the methods (or comment out methods)
+6. Create your test in the `__tests__` folder ex. `phone.test.js`
+
+7. Run tests BEFORE implementing the methods (or comment out methods)
 ```sh
 npm test
 ```
 
 Make sure tests fail. If they don't, there's something wrong and they're useless.
 
-7. Implement the methods and then test them
+8. Implement the methods and then test them
 ```sh
 npm test
 ```
