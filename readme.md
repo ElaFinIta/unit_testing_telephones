@@ -46,7 +46,7 @@ npm test
 ## Screenshot:
 
 Version 1:
-![screenshot](screenshot.png?raw=true "Screenshot of the first version of Pokédex app")
+![screenshot](screenshot.png?raw=true "Screenshot of the first version of the tests")
 
 
 ## Acknowledgement:  
